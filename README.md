@@ -6,7 +6,7 @@ This project demonstrates how to use OpenAI's Whisper model to convert audio fil
 
 ## Requirements
 
-To run this project, you'll need to install the following dependencies:
+To be able to run this project, you'll need to install the following dependencies:
 
 - **Python 3.x**
 - **openai-whisper**: OpenAI's Whisper model for speech-to-text conversion.
